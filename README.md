@@ -1,7 +1,7 @@
 
 # Scrabble Solver App
 
-![Scrabble Solver](sample_image.png)
+![Scrabble Solver](https://github.com/Levi-Chinecherem/scrabble_solver/blob/main/sample%20output/s1.png)
 
 This is a Scrabble Solver app built using the Kivy framework. It helps you find the best words you can play on your Scrabble board, given your current tiles and the tiles on the board.
 
@@ -38,7 +38,7 @@ python main.py
 
 Here's a sample image of the Scrabble Solver app in action:
 
-![Scrabble Solver](sample_image.png)
+![Scrabble Solver](https://github.com/Levi-Chinecherem/scrabble_solver/blob/main/sample%20output/s2.png)
 
 ## Acknowledgments
 
